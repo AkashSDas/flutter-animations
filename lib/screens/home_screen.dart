@@ -44,6 +44,12 @@ class HomeScreen extends StatelessWidget {
               '/animation_controller',
               context,
             ),
+            SizedBox(height: 10),
+            _buildNavigateToBtn(
+              'radial menu',
+              '/radial_menu',
+              context,
+            ),
           ],
         ),
       ),
