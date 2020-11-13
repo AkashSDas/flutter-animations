@@ -50,6 +50,12 @@ class HomeScreen extends StatelessWidget {
               '/radial_menu',
               context,
             ),
+            SizedBox(height: 10),
+            _buildNavigateToBtn(
+              'flare animation',
+              '/flare_animation',
+              context,
+            ),
           ],
         ),
       ),

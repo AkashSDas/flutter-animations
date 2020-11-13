@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
         '/background_changing': (context) => BackgroundChangingScreen(),
         '/animation_controller': (context) => MyAnimationController(),
         '/radial_menu': (context) => RadialMenu(),
+        '/flare_animation': (context) => FlareAnimation(),
       },
     );
   }
