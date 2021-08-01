@@ -1,4 +1,4 @@
-# flutter_animations
+# flutter-animations
 
 Animations in Flutter. From implicit to explicit animations and from there to using Flare, multiple ways are use to animations.
 
