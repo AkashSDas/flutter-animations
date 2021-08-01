@@ -1,16 +1,13 @@
 # flutter_animations
 
-A new Flutter project.
+Animations in Flutter. From implicit to explicit animations and from there to using Flare, multiple ways are use to animations.
 
-## Getting Started
+## Cover
 
-This project is a starting point for a Flutter application.
+![](./docs/images/Cover 1.png)
 
-A few resources to get you started if this is your first Flutter project:
+![](./docs/images/Cover 2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## License
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[MIT](./LICENSE)
