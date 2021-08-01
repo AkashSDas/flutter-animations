@@ -4,9 +4,9 @@ Animations in Flutter. From implicit to explicit animations and from there to us
 
 ## Cover
 
-![](./docs/images/Cover 1.png)
+![](./docs/images/cover-1.png)
 
-![](./docs/images/Cover 2.png)
+![](./docs/images/cover-2.png)
 
 ## License
 
